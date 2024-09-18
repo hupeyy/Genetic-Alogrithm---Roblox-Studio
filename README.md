@@ -1,4 +1,4 @@
-# Parkour AI Project
+# Self Driving Vehicle AI Project
 
 This project implements a simple genetic algorithm to train virtual cars in Roblox to complete a track. The cars use raycasting to detect their surroundings and adjust their orientation to navigate the track. Over multiple generations, the cars evolve to improve their performance.
 
